@@ -1,4 +1,5 @@
 {<img src="https://codeship.com/projects/c929f7a0-ca88-0133-f5ec-4ae02f6b2f24/status?branch=master" alt="Status?branch=master" />}[https://codeship.com/projects/139922]
+{<img src="https://coveralls.io/repos/github/OKrain/sample_app_practise/badge.svg?branch=master" alt="Coverage Status" />}[https://coveralls.io/github/OKrain/sample_app_practise?branch=master]
 
 == README
 
